@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home_name">Ouroborus</string>
+    <string name="login_name">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="message_input">Enter message</string>
+    <string name="send_button">send</string>
+    <string name="to_name">To</string>
+</resources>
